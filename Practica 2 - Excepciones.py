@@ -104,13 +104,6 @@ mensaje de error al usuario
 
 ------------------------------
 
-
-
-
--------------------------------- 
-
-""" 
-
 def division(num1,num2):
     return num1 / num2
 
@@ -133,60 +126,7 @@ finally:
     print("\n")
     print("--------- Fin del Programa ---------")
 
-    
-          
-          
 
+-------------------------------- 
 
-
-
-
-
- 
- 
-         
-
-        
-        
-        
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-
-try:
-
-    num1= float(input("Ingrese un primer numero: "))
-    num2= float(input("Ingrese un segundo numero: "))
-
-    try:
-        if num2 == 0:
-            print("Error: No se puede dividir por cero.")
-        else:
-            resultado = division(num1,num2)
-            print(f"El resultado de la division es: {resultado:.2f}")
-    except ValueError:
-        print("Error: Por favor, ingrese numeros validos.")
-
-    if num
-
-"""
-
+""" 
