@@ -12,7 +12,7 @@ Practica 1:
 conjunto_a = {1,2,3,4,5,6,7,8,9,10}
 conjunto_b = {3,7,1,5,11,15,2,16,8,16}
 
-print(conjunto_a & conjunto_b)
+print(conjunto_a | conjunto_b)
 
 ---------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Practica 2:
 conjunto_a = {1,2,3,4,5,6,7,8,9,10}
 conjunto_b = {3,7,1,5,11,15,2,16,8,16}
 
-print(conjunto_a | conjunto_b)
+print(conjunto_a & conjunto_b)
 
 ---------------------------------------------------------------
 
